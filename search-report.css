@@ -1,0 +1,391 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.space-top{
+    padding: 20px 0;
+}
+.menu{
+    font-size: 19px;
+    color: #191919;
+    padding: 9px 16px;
+    display: block;
+    background-color: #f5f3f0;
+    margin: 20px 0 -10px;
+    width: 100%;
+    
+}
+.menu:hover{
+    background-color: #c20b0b;
+    color: #fff;
+}
+.addres{
+    padding: 36px 0 10px 30px;
+    
+}
+.addres h3{
+    font-weight: 600;
+    font-size: 24px;
+}
+.marker{
+    color: #c20b0b;
+}
+.addres-align1{
+    padding: 0 2px;
+}
+.ft-mail {
+    font-size: 15px; 
+    padding: 0 3px;
+}
+.ftr-adres{
+    font-size: 15px;
+    padding: 0 18px;
+}
+
+.bg-search{
+    background-color: #F5F3F0;
+    background-image: url(./Image/bg-content.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    /* height: 1327px; */
+}
+.bg-content{
+    background-color: #FFFFFF;
+    height: 800px;
+    width: 90%;
+    padding: 0 27px;
+}
+
+.btn-serach {
+    background-color: #c20b0b;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    width: 37%;
+    border-radius: 10px;
+    height: 49px;
+    border: none;
+    margin: 15px 0;
+}
+.btn-serach1 {
+    background-color: #c20b0b;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    width: 46%;
+    border-radius: 10px;
+    height: 49px;
+    border: none;
+    
+}
+.btn-serach:hover{
+    background-color: black;
+    color: #fff;
+}
+.btn-serach1:hover{
+    background-color: black;
+    color: #fff;
+}
+ .download{
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #fff;
+    color: #191919;
+    padding: 15px 20px;
+    width: 100%;
+    display: block;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    
+ } 
+ .padding-blk{
+    padding: 50px 0;
+ }
+ .clr-blk{
+    background-color: #191919;
+    color: #fff;
+    height: 180px;
+    width: 91%;
+    padding: 30px 40px;
+    
+ }
+ .file-clr{
+    color: #c20b0b;
+    padding: 0 120px;
+ }
+ .bg-content1{
+    background-color: #FFFFFF;
+    height: 1159px;
+    width: 100%;
+    
+}
+.width-img{
+    width: 100%;
+    padding: 17px 14px;
+}
+.bg-img3 {
+    background-image: url(./Image/bg-25.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.right{
+    color: #c20b0b;
+    font-size: 15px;
+}
+
+.space-list li{
+    margin: 20px 0 20px;
+}
+.font-clr{
+    color: #0C2563;
+    font-size: 27px;
+    font-weight: 700;
+    margin: 0 25px;
+}
+.font-clr1{
+    color: #0C2563;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 15px 26px -8px;
+}
+.font-design{
+    font-size: 15px;
+    line-height: 30px;
+    color: #646464;
+    padding: 30px 25px ;
+    
+}
+.font-design1{
+  font-size: 15px;
+  line-height: 30px;
+  color: #646464;
+  padding: 0 25px;
+  margin: -33px 0;
+  
+}
+.font-clr2{
+    color: #C73A39;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 45px 25px;
+}
+.sale-size{
+  color: #0C2563;
+  font-size: 17px;
+  font-weight: 700;
+  padding: 0px 25px;
+  margin: -25px 0
+}
+.bg-content-regist{
+  background-color: #FFFFFF;
+    height: 1820px;
+    width: 100%;
+    margin-bottom: 70px;
+}
+.font-design-bold{
+  font-size: 13px;
+  color: black;
+  padding: 25px 25px ;
+  
+}
+.font-design-bold1{
+  font-size: 13px;
+  color: black;
+  padding: 0 25px ;
+  margin-top: -22px;
+ }
+ .font-design-bold2{
+  font-size: 13px;
+  color: black;
+  padding: 4px 25px ;
+ }
+ .font-design-bold3{
+  font-size: 13px;
+  color: black;
+  padding: 0 25px ;
+ }
+ 
+
+ .right1 {
+  color: #c20b0b;
+  font-size: 19px;
+  font-weight: 700;
+}
+
+.font-clr-size {
+  color: #0C2563;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 25px;
+}
+
+.link-clr{
+  color: #c20b0b;
+}
+
+
+.font-clr-rent{
+  color: #0C2563;
+  font-size: 27px;
+  font-weight: 700;
+  padding: 27px 25px 0;
+}
+
+.sale-size-insurnce{
+  color: #C73A39;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 25px 25px 0; 
+}
+
+.sale-type{
+  padding:0 25px 0;
+}
+.font-style{
+  font-weight: 500;
+  color: #000000;
+  padding: 1px 25px 0;
+  font-size: 14px;
+    
+}
+
+.motor{
+  margin-top: 10px;
+}
+
+
+.sale-size-house{
+  color: black;
+  font-size: 15px;
+  font-weight: 900;
+  padding: 0 20px;
+}
+.right-angle{
+  color: #0C2563;
+  font-weight: 900;
+  font-size: 25px;
+  padding: 10px 0;
+}
+
+.house-left{
+  padding: 0 32px 10px;
+}
+
+.bg-content-regist1{
+  background-color: #FFFFFF;
+    
+    width: 100%;
+    margin-bottom: 70px;
+}
+.font-property{
+  color: #000000;
+  font-family: "Roboto", Sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 30px 30px;
+  line-height: 25px;
+}
+
+.font-design-drone{
+  font-size: 15px;
+  color: black;
+  padding: 30px 25px; 
+}
+.font-design-drone1{
+  font-size: 15px;
+  color: black;
+  padding: 30px 25px; 
+  margin: 20px 0;
+}
+.font-clr-drone{
+  color: #0C2563;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 0px 26px;
+  margin: -28px 0px;
+}
+
+.survey{
+  padding: 47px 25px;
+  font-size: 14px;
+  
+}
+.talon{
+  padding: 10px 0 10px;
+}
+
+.font-design-certificate{
+  font-size: 15px;
+  color: black;
+  padding: 20px 25px 0;
+}
+.font-design-certificate1{
+  font-size: 15px;
+  color: black;
+  padding: 0 25px;
+}
+
+
+.right-icon {
+  color: #c20b0b;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.font-clr-certicate {
+    color: #0C2563;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 0px 26px;
+    padding: 0 25px;
+    margin: 29px 0px -18px;
+}
+
+.bg-content-cert {
+  background-color: #FFFFFF;
+  width: 100%;
+  margin-bottom: 70px;
+  height: 1159px;
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px){
+    .bg-content{
+        margin: 0;
+        width: 100%;
+    }
+    .menu{
+        margin:20px 10px 20px;
+        width: 90%;
+        font-size: 15px;
+        }
+    }
+    /* .ft-adress{
+        font-size: 13px;
+    }
+    .ftr-adres{
+        font-size: 12px;
+    } */
+/* ------------------------------------------- */
+/*!
+ * bootstrap-vertical-tabs - v1.2.1
+ * https://dbtek.github.io/bootstrap-vertical-tabs
+ * 2014-11-07
+ * Copyright (c) 2014 İsmail Demirbilek
+ * License: MIT
+ */
+ 

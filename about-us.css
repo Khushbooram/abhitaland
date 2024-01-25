@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body.body-default-font {
+    font-family: 'Roboto', sans-serif;
+
+}
+.titile-heading{
+    color: #0C2563;
+    font-weight: 700;
+}
+.bg-header{
+    background-image: url(https://abhitalandsolutions.com/wp-content/uploads/2020/11/bg-content-05.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+.bodr-line{
+    height: 100px;
+    width: 2px;
+    padding-left: 15px;
+    border-left: 1px solid #b2b2b2;
+    position: absolute;
+    left: 0;
+}
+.abt-span2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-top: 42px;
+    
+}
+.abt-span2 .abt-span-wrapper{
+    padding-right: 1rem;
+}
+.abt-span2 .icon-heading{
+    display: flex;
+}
+
+
+.abt-span3{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-top: 42px;
+    
+}
+.abt-span3 .abt-span-wrapper{
+    padding-right: 1rem;
+}
+.abt-span3 .icon-heading{
+    display: flex;
+}
+
+.title-team1{
+    color: black;
+    font-size: 19px;
+    margin:-3px 7px;  
+}
+
+.font-paragph1{
+    padding: 15px 8px;
+    }
+
+
+.flaticon{
+    color: #C20B0B;
+    font-size: 35px;
+}
+.title-team{
+    color: black;
+    font-size: 19px;
+    margin:0 15px;  
+}
+.ft-bg1{
+    background-color:#120537 ;
+    color: #fff;
+    padding: 50px;
+}
+.font-paragph{
+padding: 15px 0;
+}
